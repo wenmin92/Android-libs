@@ -2,12 +2,12 @@
 安卓各种开源库收集
 
 > ###### TOC
-> + [View](#View)
-> + [Tools](#Tools)
+> + [View](#view)
+> + [Tools](#tools)
 
   
   
-## <a name="View" />View
+## View
 
 #### 搜索控件
 
@@ -19,7 +19,7 @@
 
    [floatingsearchview]: https://github.com/arimorty/floatingsearchview
 
-## <a name="Tools" />Tools
+## Tools
 
 #### UI 相关工具
 
