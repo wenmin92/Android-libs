@@ -7,11 +7,11 @@
 
   
   
-## <a name="View">View
+## <a name="View" />View
 
 #### 搜索控件
 
-+ [floatingsearchview][]  
+* [floatingsearchview][]
 
   > A search view that implements a floating search bar also known as persistent search https://github.com/arimorty/floatingsearchview/blob/master/README.md
   
@@ -19,13 +19,13 @@
 
    [floatingsearchview]: https://github.com/arimorty/floatingsearchview
 
-## <a name="Tools">Tools
+## <a name="Tools" />Tools
 
 #### UI 相关工具
 
-+ [ViewInspector][]
+* [ViewInspector][]
 
-  >View Inspection Toolbar for Android Development 
+  > View Inspection Toolbar for Android Development 
   
   > ![Alt text](https://github.com/xfumihiro/ViewInspector/raw/master/images/sample.gif)
   
