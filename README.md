@@ -44,6 +44,6 @@
 
 * [LessCode][]
 
-  > Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配。
+  > less code, more efficient for android, for the best android tools library!
 
    [LessCode]: https://github.com/openproject/LessCode
