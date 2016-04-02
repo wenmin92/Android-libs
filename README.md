@@ -3,14 +3,18 @@
 
 > ###### TOC
 > + [View](#view)
+>   + [Search](#Search)
+>   + [Dialogs](#Dialogs)
 > + [Tools](#tools)
+>   + [UI](#UI)
 > + [Utils](#utils)
+>   + [Common](#Common)
 
   
   
 ## View
 
-#### 搜索控件
+#### Search
 
 * [floatingsearchview][]
 
@@ -20,9 +24,19 @@
 
    [floatingsearchview]: https://github.com/arimorty/floatingsearchview
 
+#### Dialogs
+
+* [Sweet Alert Dialog][]
+
+  > SweetAlert for Android, a beautiful and clever alert dialog
+  
+  > ![Alt text](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
+
+   [Sweet Alert Dialog]: https://github.com/pedant/sweet-alert-dialog
+
 ## Tools
 
-#### UI 相关工具
+#### UI
 
 * [ViewInspector][]
 
@@ -40,7 +54,7 @@
 
 ## Utils
 
-#### 通用工具类
+#### Common
 
 * [LessCode][]
 
