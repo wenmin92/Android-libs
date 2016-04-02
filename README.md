@@ -3,12 +3,12 @@
 
 > ###### TOC
 > + [View](#view)
->   + [Search](#Search)
->   + [Dialogs](#Dialogs)
+>   + [Search](#search)
+>   + [Dialogs](#dialogs)
 > + [Tools](#tools)
->   + [UI](#UI)
+>   + [UI](#ui)
 > + [Utils](#utils)
->   + [Common](#Common)
+>   + [Common](#common)
 
   
   
