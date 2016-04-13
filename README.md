@@ -1,5 +1,5 @@
 # Android-libs
-安卓各种开源库收集
+安卓各种开源库收集，开源完整app见: [开源应用](https://github.com/wenmin92/Android-libs/blob/master/开源应用.md)
 
 > ###### TOC
 > + [View](#view)
