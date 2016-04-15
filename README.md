@@ -5,8 +5,10 @@
 > + [View](/View.md)
 >   + [Search](/View.md#search)
 >   + [Dialogs](/View.md#dialogs)
->   + [Navigation](#Navigation)
+>   + [Navigation](/View.md#Navigation)
+
 > + [Tools](/Tools.md)
 >   + [UI](/Tools.md#ui)
+
 > + [Utils](/Utils.md)
 >   + [Common](/Utils.md#common)
