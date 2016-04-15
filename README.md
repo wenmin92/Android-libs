@@ -7,8 +7,8 @@ TOC
 + [View](/View.md)
   + [Search](/View.md#search)
   + [Dialogs](/View.md#dialogs)
-  + [Navigation](/View.md#Navigation)
-  + [Input](/View.md#Input)
+  + [Navigation](/View.md#navigation)
+  + [Input](/View.md#input)
 
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)
