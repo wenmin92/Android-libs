@@ -14,6 +14,11 @@
   > SweetAlert for Android, a beautiful and clever alert dialog  
   > ![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
 
+* [Material Dialogs](https://github.com/afollestad/material-dialogs)
+
+  > A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.  
+  > ![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)
+
 #### Navigation
 
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
