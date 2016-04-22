@@ -18,7 +18,7 @@
   > Bind Android views and callbacks to fields and methods.    
 
 
-#### adapter
+#### Adapter
 
 1. [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)    
 
