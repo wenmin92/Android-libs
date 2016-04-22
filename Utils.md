@@ -21,5 +21,7 @@
 #### Adapter
 
 1. [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)    
-
   > Powerful and flexible RecyclerAdapter.    
+
+1. [FlexibleAdapter](https://github.com/davideas/FlexibleAdapter)   
+  > 1 Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable :-)   
