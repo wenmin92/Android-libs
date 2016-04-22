@@ -13,6 +13,7 @@ TOC
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)
   + [Android Studio Plugin](/Tools.md#androiid-studio-plugin)
+  + [Articles](/Tools.md#articles)
 
 + [Utils](/Utils.md)
   + [Common](/Utils.md#common)
