@@ -8,6 +8,7 @@
 1. [AndroidCommon](https://github.com/venshine/AndroidCommon)   
   > 一个简单的开源Android工具类库，提供许多常用的类帮助我们开发程序。   
 
+
 #### Annotation    
 
 1. [AndroidAnnotations](https://github.com/excilys/androidannotations)   
@@ -15,3 +16,10 @@
 
 1. [Butter Knife](https://github.com/JakeWharton/butterknife)   
   > Bind Android views and callbacks to fields and methods.    
+
+
+#### adapter
+
+1. [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)    
+
+  > Powerful and flexible RecyclerAdapter.    
