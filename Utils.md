@@ -8,6 +8,9 @@
 1. [AndroidCommon](https://github.com/venshine/AndroidCommon)   
   > 一个简单的开源Android工具类库，提供许多常用的类帮助我们开发程序。   
 
+1. [awesome-android-tips](https://github.com/jiang111/awesome-android-tips)
+  > 这里收集了大家常用的一些Android代码。
+
 
 #### Annotation    
 
