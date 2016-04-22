@@ -2,16 +2,16 @@
 
 #### UI
 
-* [ViewInspector][]
+* [ViewInspector](https://github.com/xfumihiro/ViewInspector)   
+  > View Inspection Toolbar for Android Development   
+  > ![](https://github.com/xfumihiro/ViewInspector/raw/master/images/sample.gif)   
 
-  > View Inspection Toolbar for Android Development
-  
-  > ![](https://github.com/xfumihiro/ViewInspector/raw/master/images/sample.gif)
+* [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout  )    
+  > Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配。    
 
-   [ViewInspector]: https://github.com/xfumihiro/ViewInspector
 
-* [AndroidAutoLayout][]
+#### Androiid Studio Plugin
 
-  > Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配。
+* [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins)    
 
-   [AndroidAutoLayout]: https://github.com/hongyangAndroid/AndroidAutoLayout
+  > 收集Android studio 常用的插件   
