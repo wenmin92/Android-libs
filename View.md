@@ -36,4 +36,4 @@
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)    
 
   > EditText in Material Design  
-  > <img src="https://github.com/rengwuxian/MaterialEditText/raw/master/images/material_edittext.png" width="520" height="325" />
+  > <img src="https://github.com/rengwuxian/MaterialEditText/raw/master/images/material_edittext.png" width="312" height="195" />
