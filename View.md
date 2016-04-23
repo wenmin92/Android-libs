@@ -2,10 +2,14 @@
 
 #### Search
 
-* [floatingsearchview](https://github.com/arimorty/floatingsearchview)
-
+* [floatingsearchview](https://github.com/arimorty/floatingsearchview)   
   > A search view that implements a floating search bar also known as persistent search https://github.com/arimorty/floatingsearchview/blob/master/README.md  
   > ![](https://github.com/arimorty/floatingsearchview/raw/master/images/inaction.gif)
+
+* [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)   
+  > Android SearchView based on Material Design guidelines. The MaterialSearchView will overlay a Toolbar or ActionBar as well as display a ListView for the user to show suggested or recent searches.
+  > <img src="http://i.stack.imgur.com/C5LA4.gif" width='270' height='480' />
+
 
 #### Dialogs
 
