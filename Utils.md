@@ -27,4 +27,7 @@
   > Powerful and flexible RecyclerAdapter.    
 
 1. [FlexibleAdapter](https://github.com/davideas/FlexibleAdapter)   
-  > 1 Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable :-)   
+  > 1 Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable :-)  
+
+1. [RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)   
+  > Android library providing simple way to control divider items (ItemDecoration) of RecyclerView   
