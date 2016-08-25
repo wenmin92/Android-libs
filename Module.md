@@ -9,12 +9,15 @@
   > <img src="https://github.com/PaoloRotolo/AppIntro/blob/master/art/intro.png" width="300" />
   > <img src="https://github.com/PaoloRotolo/AppIntro/blob/master/art/layout2.png" width="300" />
 
+* [LiulishuoPreview](https://github.com/JeasonWong/LiulishuoPreview) 
+
+  > 手摸手带你用VideoView实现英语流利说炫酷引导
+  > ![](https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif)
 
 
 #### Login
 
 * [OwlView](https://github.com/binglingziyu/OwlView)
-
   > 模仿readme.io登陆页面的动画效果   
   > <img src="https://github.com/binglingziyu/Android-LoginPage/raw/master/screenshot/owl_login.gif" width="300" />
 
@@ -34,5 +37,5 @@
 #### BaseFrame
 
 * [MVPframe](https://github.com/CarlLu/MVPframe)    
-  
+
   > Dagger2+Rxjava+Retrofit+MVP    

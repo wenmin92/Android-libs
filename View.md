@@ -25,10 +25,10 @@
 
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)  
   > Navigation tab bar with colorful interactions.    
-  
-  > Horizontal NTB|NTB bottom, badge, all title |NTB top, badge, typeface, active title|Vertical NTB|NTB Samples|
-    :----------:|:----------:|:----------:|:----------:|:----------:
-    ![](https://lh6.googleusercontent.com/-Bf7uxUiRvfk/VvpVlkZzsVI/AAAAAAAACPA/Ysg9uuBpaL8UhsXpYPlyNJK6IJssdkMvg/w325-h552-no/hntb.gif)|![](https://lh4.googleusercontent.com/-hxXHKG4zMOU/VwLWxDdhxQI/AAAAAAAACQg/gErfodzZlpINFmlWllvuFs6dlRnp_rG9w/w322-h551-no/tbntb.gif)|![](https://lh5.googleusercontent.com/-3RKqh-MquqA/VwLWxHKv2jI/AAAAAAAACQg/WjmW9OravjIAzinLVFXEditNN4DFfRt6A/w322-h552-no/ttbntb.gif)|![](https://lh4.googleusercontent.com/-k4Ac7-c2m8E/VvpVlk3ZmLI/AAAAAAAACPA/21ISoAYGZzUlvGPmIauXwfYZOKdCYIRGg/w323-h552-no/vntb.gif)|![](https://lh5.googleusercontent.com/-hmELfZQvexU/VvpVlooaPvI/AAAAAAAACPA/5HA5ic7dASwBUYqpqcfxAmfLzPPDXejqQ/w322-h552-no/ntbs.gif)
+
+  > |              Horizontal NTB              |       NTB bottom, badge, all title       |  NTB top, badge, typeface, active title  |               Vertical NTB               |               NTB Samples                |      |
+  > | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | ---- |
+  > | ![](https://lh6.googleusercontent.com/-Bf7uxUiRvfk/VvpVlkZzsVI/AAAAAAAACPA/Ysg9uuBpaL8UhsXpYPlyNJK6IJssdkMvg/w325-h552-no/hntb.gif) | ![](https://lh4.googleusercontent.com/-hxXHKG4zMOU/VwLWxDdhxQI/AAAAAAAACQg/gErfodzZlpINFmlWllvuFs6dlRnp_rG9w/w322-h551-no/tbntb.gif) | ![](https://lh5.googleusercontent.com/-3RKqh-MquqA/VwLWxHKv2jI/AAAAAAAACQg/WjmW9OravjIAzinLVFXEditNN4DFfRt6A/w322-h552-no/ttbntb.gif) | ![](https://lh4.googleusercontent.com/-k4Ac7-c2m8E/VvpVlk3ZmLI/AAAAAAAACPA/21ISoAYGZzUlvGPmIauXwfYZOKdCYIRGg/w323-h552-no/vntb.gif) | ![](https://lh5.googleusercontent.com/-hmELfZQvexU/VvpVlooaPvI/AAAAAAAACPA/5HA5ic7dASwBUYqpqcfxAmfLzPPDXejqQ/w322-h552-no/ntbs.gif) |      |
 
 #### Input
 
@@ -36,3 +36,13 @@
 
   > EditText in Material Design   
   > <img src="https://github.com/rengwuxian/MaterialEditText/raw/master/images/material_edittext.png" width="312" height="195" />
+
+
+
+#### Image
+
+- [BlurView](https://github.com/robinxdroid/BlurView)
+
+  > Android blur view
+  > 三种更新方式：只模糊一次；滚动时实时更新；无条件实时更新；
+  > ![](https://github.com/robinxdroid/BlurView/blob/master/BlurBehindView1.gif?raw=true)
