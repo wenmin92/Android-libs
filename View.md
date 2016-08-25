@@ -8,7 +8,8 @@
 
 * [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)   
   > Android SearchView based on Material Design guidelines. The MaterialSearchView will overlay a Toolbar or ActionBar as well as display a ListView for the user to show suggested or recent searches.   
-  > ![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png)
+  >
+  > <img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" height="600" />
 
 
 #### Dialogs
@@ -19,7 +20,7 @@
 
 * [Material Dialogs](https://github.com/afollestad/material-dialogs)  
   > A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.  
-  > ![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)
+  > ![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png)
 
 #### Navigation
 
@@ -45,7 +46,7 @@
 
   > Android blur view
   > 三种更新方式：只模糊一次；滚动时实时更新；无条件实时更新；
-  > ![](https://github.com/robinxdroid/BlurView/blob/master/BlurBehindView1.gif?raw=true)
+  > <img src="https://github.com/robinxdroid/BlurView/blob/master/BlurBehindView1.gif?raw=true" height="600" />
 
 #### CheckBox
 
