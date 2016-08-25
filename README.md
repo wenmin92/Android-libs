@@ -13,6 +13,7 @@ TOC
   + [Image](/View.md#image)
   + [CheckBox](/View.md#checkbox)
   + [Calendar](/View.md#calendar)
+  + [TextView](/View.md#textview)
 
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)

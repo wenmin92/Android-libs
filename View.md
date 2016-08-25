@@ -59,3 +59,11 @@
 #### Calendar
 
 - [自定义Calendar实现签到功能](http://blog.csdn.net/bjp000111/article/details/52301133)
+
+#### TextView
+
+- [ExpandableTextViewExample](https://github.com/jaydenxiao2016/ExpandableTextViewExample)
+
+  > 最轻量的可展开和收缩内容的TextView，可用于listview等列表或普通布局情况   
+  >
+  > ![](https://github.com/jaydenxiao2016/ExpandableTextViewExample/raw/master/arts/expandabletextview.gif)
