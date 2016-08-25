@@ -11,7 +11,7 @@
 
 * [LiulishuoPreview](https://github.com/JeasonWong/LiulishuoPreview) 
 
-  > 手摸手带你用VideoView实现英语流利说炫酷引导
+  > 手摸手带你用VideoView实现英语流利说炫酷引导   
   > ![](https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif)
 
 
