@@ -10,6 +10,8 @@ TOC
   + [Dialogs](/View.md#dialogs)
   + [Navigation](/View.md#navigation)
   + [Input](/View.md#input)
+  + [Image](/View.md#image)
+  + [CheckBox](/View.md#checkbox)
 
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)

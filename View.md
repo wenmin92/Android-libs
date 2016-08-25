@@ -46,3 +46,11 @@
   > Android blur view
   > 三种更新方式：只模糊一次；滚动时实时更新；无条件实时更新；
   > ![](https://github.com/robinxdroid/BlurView/blob/master/BlurBehindView1.gif?raw=true)
+
+#### CheckBox
+
+- [ACheckBox](https://github.com/Bigmercu/ACheckBox)
+
+  > 一个简单的拥有丰富自定义内容的CheckBox多选框   
+  >
+  > <img src="https://camo.githubusercontent.com/6026b28aad691439368498aafed2415274839604/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f62343566353666366777316637316d68753933766f6a32307937317766776b682e6a7067" height="600"/>
