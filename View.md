@@ -8,7 +8,7 @@
 
 * [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)   
   > Android SearchView based on Material Design guidelines. The MaterialSearchView will overlay a Toolbar or ActionBar as well as display a ListView for the user to show suggested or recent searches.   
-  > <img src="http://i.stack.imgur.com/C5LA4.gif" width='270' height='480' />
+  > ![](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/readmeshowcase.png)
 
 
 #### Dialogs
