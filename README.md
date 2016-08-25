@@ -12,6 +12,7 @@ TOC
   + [Input](/View.md#input)
   + [Image](/View.md#image)
   + [CheckBox](/View.md#checkbox)
+  + [Calendar](/View.md#calendar)
 
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)

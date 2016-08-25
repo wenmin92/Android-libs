@@ -55,3 +55,7 @@
   > 一个简单的拥有丰富自定义内容的CheckBox多选框   
   >
   > <img src="https://camo.githubusercontent.com/6026b28aad691439368498aafed2415274839604/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f62343566353666366777316637316d68753933766f6a32307937317766776b682e6a7067" height="600"/>
+
+#### Calendar
+
+- [自定义Calendar实现签到功能](http://blog.csdn.net/bjp000111/article/details/52301133)
