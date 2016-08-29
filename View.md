@@ -71,4 +71,6 @@
 #### Layout
 
 - [StateLayout](https://github.com/lufficc/StateLayout)   
-  A custom layout that can easily switch different states(like empty,error,progress,content) with animations.
+
+  > A custom layout that can easily switch different states(like empty,error,progress,content) with animations.   
+  > <img src="https://github.com/lufficc/StateLayout/raw/master/pics/state_layout.gif" height="600"/>
