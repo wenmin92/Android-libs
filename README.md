@@ -14,6 +14,7 @@ TOC
   + [CheckBox](/View.md#checkbox)
   + [Calendar](/View.md#calendar)
   + [TextView](/View.md#textview)
+  + [Layout](/View.md#layout)
 
 + [Tools](/Tools.md)
   + [UI](/Tools.md#ui)

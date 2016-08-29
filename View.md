@@ -67,3 +67,8 @@
   > 最轻量的可展开和收缩内容的TextView，可用于listview等列表或普通布局情况   
   >
   > ![](https://github.com/jaydenxiao2016/ExpandableTextViewExample/raw/master/arts/expandabletextview.gif)
+
+#### Layout
+
+- [StateLayout](https://github.com/lufficc/StateLayout)   
+  A custom layout that can easily switch different states(like empty,error,progress,content) with animations.
